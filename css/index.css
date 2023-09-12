@@ -7353,12 +7353,13 @@ body
 }
 #wb_Text2
 {
-   font-family: "DG Bebo";
-   font-weight: 400;
-   font-size: 22px;
-   margin: 0;
-   padding: 0;
-   text-align: center;
+  font-family: "Cairo";
+font-weight: bold;
+font-size: 25px;
+margin: 0;
+padding: 0;
+text-align: center;
+
 }
 #wb_Lottie5
 {
